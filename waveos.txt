@@ -5851,7 +5851,7 @@ Your browser does not support inline frames or is currently configured not to di
 </p>
 
 <div class="WaveMenu2" id="WaveMenu2"><center>WAVE OS</center>
-<a href="https://pastebin.com/rWSvhEbg">REDISTRIBUTABLE CODE</a>
+<a href="https://raw.githubusercontent.com/ioxwavey/waveos/main/waveos.txt">REDISTRIBUTABLE CODE</a>
 <div class="search">{block:IfShowSearchBox}
             <form action="/search" method="get" id="search-form">
     			<input class="search" type="text" placeholder="{lang:Search}" name="q" value="{SearchQuery}" />
